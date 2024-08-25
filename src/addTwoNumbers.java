@@ -3,6 +3,6 @@ public class addTwoNumbers {
             int firstNumber = 3;
             int secondNumber = 7;
             int sum = firstNumber+secondNumber;
-            System.out.print("Addition of twon number 3+7 = " + sum);
+            System.out.print("Addition of two number 3+7 = " + sum);
     }
 }
