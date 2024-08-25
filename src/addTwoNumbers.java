@@ -15,5 +15,5 @@ public class addTwoNumbers {
             int secondInputFromUser = inputFromUser.nextInt();
             int AddingOfTwoInputValues = firstInputFromUser+ secondInputFromUser;
             System.out.println("The sum of your numbers = " + AddingOfTwoInputValues);
-    }
+        }
 }
