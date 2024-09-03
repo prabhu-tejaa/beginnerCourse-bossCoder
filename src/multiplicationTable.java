@@ -16,5 +16,13 @@ public class multiplicationTable {
             }
         }
 
+        for(int i = 1; i <= 10; i++){
+            if(i==6){
+                break;
+            } else {
+                System.out.println("Break \"6\"" + value + " x " + i + " = " + (value*i));
+            }
+        }
+
     }
 }
