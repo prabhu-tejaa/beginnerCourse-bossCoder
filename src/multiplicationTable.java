@@ -7,5 +7,14 @@ public class multiplicationTable {
         for(int i = 1; i <= 10; i++){
             System.out.println(value + " x " + i + " = " + (value*i));
         }
+
+        for(int i = 1; i <= 10; i++){
+            if(i==6){
+                continue;
+            } else {
+                System.out.println("Without \"6\"" + value + " x " + i + " = " + (value*i));
+            }
+        }
+
     }
 }
