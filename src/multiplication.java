@@ -5,7 +5,7 @@ public class multiplication {
         System.out.println("To get the multiplication of two given values");
         System.out.println("Enter the firstValue");
         int firstValue = input.nextInt();
-        System.out.println("Enter the firstValue");
+        System.out.println("Enter the secondValue");
         int secondValue = input.nextInt();
         int multiplication = firstValue * secondValue;
         System.out.println("Multiplication of given value is: " + multiplication);

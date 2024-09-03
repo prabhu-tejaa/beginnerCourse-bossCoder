@@ -5,7 +5,7 @@ public class subtraction {
             System.out.println("To get the subtraction of two given values");
             System.out.println("Enter the firstValue");
             int firstValue = input.nextInt();
-            System.out.println("Enter the firstValue");
+            System.out.println("Enter the secondValue");
             int secondValue = input.nextInt();
             int subtraction = firstValue - secondValue;
             System.out.println("Subtraction of given value is: " + subtraction);
