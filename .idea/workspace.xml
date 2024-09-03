@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remainder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,8 @@
     "Application.integerInput.executor": "Run",
     "Application.leapYear.executor": "Run",
     "Application.multiplication.executor": "Run",
+    "Application.remainder.executor": "Run",
+    "Application.subtraction.executor": "Run",
     "Application.sumOfThreeNumbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
