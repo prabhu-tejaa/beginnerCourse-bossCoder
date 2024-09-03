@@ -9,7 +9,7 @@ public class multipleOfFive {
             if(value < 5) {
                 System.out.println("The value is less than 5 so it is not possible to get the multiples of 5 for the value: " + value);
             } else {
-                System.out.println("The multipe of 5 is: ");
+                System.out.println("The multiple of 5 is: ");
                 for(int i = 5; i<= value; i = i +5){
                     System.out.println(i);
                 }
