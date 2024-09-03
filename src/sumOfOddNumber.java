@@ -12,7 +12,7 @@ public class sumOfOddNumber {
         }
         System.out.println("The sum of odd numbers of the given value "+ userInput + " is " + sum);
 
-        //Approach 2
+        //Approach 2 - nsqaure
         System.out.println("The sum of odd numbers of the given value "+ userInput + " is " + (userInput*userInput));
     }
 }
