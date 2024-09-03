@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/concatTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gettingLastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/removingLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindromeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +65,7 @@
     "Application.multipleOfThree.executor": "Run",
     "Application.multiplication.executor": "Run",
     "Application.multiplicationTable.executor": "Run",
+    "Application.palindromeNumber.executor": "Run",
     "Application.positiveNumber.executor": "Run",
     "Application.printHelloWorld100Times.executor": "Run",
     "Application.remainder.executor": "Run",
