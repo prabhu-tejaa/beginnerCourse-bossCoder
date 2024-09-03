@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change beforePath="$PROJECT_DIR$/src/multipleOfFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multipleOfFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forAndWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +54,14 @@
     "Application.areaOfSquare.executor": "Run",
     "Application.average.executor": "Run",
     "Application.evenOrOdd.executor": "Run",
+    "Application.forAndWhileLoop.executor": "Run",
     "Application.integerInput.executor": "Run",
     "Application.leapYear.executor": "Run",
     "Application.maximumNumber.executor": "Run",
     "Application.multipleOfFive.executor": "Run",
     "Application.multipleOfThree.executor": "Run",
     "Application.multiplication.executor": "Run",
+    "Application.printHelloWorld100Times.executor": "Run",
     "Application.remainder.executor": "Run",
     "Application.subtraction.executor": "Run",
     "Application.sumOfThreeNumbers.executor": "Run",
