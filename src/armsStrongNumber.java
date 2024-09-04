@@ -7,6 +7,9 @@ public class armsStrongNumber {
             value = value/10;
             digitsAvaliable++;
         }
+//        for (int i = value; i != 0; i /= 10) {
+//            digitsAvaliable++;
+//        }
         System.out.println("Digits avaliable: " + digitsAvaliable);
         return  digitsAvaliable;
     }

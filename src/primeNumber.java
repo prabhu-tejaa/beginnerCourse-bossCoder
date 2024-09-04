@@ -6,11 +6,11 @@ public class primeNumber {
         int userInput = input.nextInt();
         String result = "Null";
         System.out.println(userInput);
-        for(int i = 2; i <= userInput; i++){
+        for(int i = 2; i*i <= userInput; i++){
             if(userInput%i == 0){
-                result = "Even";
+                result = "not a prime number";
             } else {
-                result = "odd";
+                result = "prime number";
             }
         }
         System.out.println(result);
