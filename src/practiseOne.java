@@ -1,6 +1,7 @@
 import java.util.*;
 public class practiseOne {
     public static void main(String[] args){
+
         //Basics of programming:-
         Scanner input = new Scanner(System.in);
 
