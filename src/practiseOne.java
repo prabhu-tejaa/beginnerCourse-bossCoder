@@ -87,5 +87,23 @@ public class practiseOne {
 
 //        ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+        //If else conditional statements:-
+
+        // 1. Even odd (Check if a given number is even or odd)
+
+//        System.out.println("Enter a number to find out the given number is an even or odd number: ");
+//        int valueToGetEvenOrOddNumber = input.nextInt();
+//        if(valueToGetEvenOrOddNumber%2 == 0){
+//            System.out.println("The given number " + valueToGetEvenOrOddNumber + " is an even number.");
+//        } else {
+//            System.out.println("The given number " + valueToGetEvenOrOddNumber + " is an odd number.");
+//        }
+
+//        ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+        // 2. Multiple of five (print all the numbers from 1 to N which are the multiples of 5)
+
+        System.out.println("Enter a number to get the multiple of 5.");
+        int valueToGetMultipleOfFive = input.nextInt();
     }
 }
