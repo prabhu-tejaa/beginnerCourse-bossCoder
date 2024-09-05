@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
+      <change afterPath="$PROJECT_DIR$/src/practiseOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +69,7 @@
     "Application.multiplicationTable.executor": "Run",
     "Application.palindromeNumber.executor": "Run",
     "Application.positiveNumber.executor": "Run",
+    "Application.practiseOne.executor": "Run",
     "Application.primeNumber.executor": "Run",
     "Application.printHelloWorld100Times.executor": "Run",
     "Application.remainder.executor": "Run",
