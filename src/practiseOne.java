@@ -103,7 +103,9 @@ public class practiseOne {
 
         // 2. Multiple of five (print all the numbers from 1 to N which are the multiples of 5)
 
-        System.out.println("Enter a number to get the multiple of 5.");
-        int valueToGetMultipleOfFive = input.nextInt();
+//        System.out.println("Enter a number to get the multiple of 5.");
+//        int valueToGetMultipleOfFive = input.nextInt();
+//        String text = input.nextLine();
+//        System.out.println(text);
     }
 }
