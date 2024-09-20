@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/patternProblem03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patternProblem02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patternProblem02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patternProblem03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patternProblem03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +71,7 @@
     "Application.pangram.executor": "Run",
     "Application.patternProblem01.executor": "Run",
     "Application.patternProblem02.executor": "Run",
+    "Application.patternProblem03.executor": "Run",
     "Application.patternProblems.executor": "Run",
     "Application.positiveNumber.executor": "Run",
     "Application.practiseOne.executor": "Run",
