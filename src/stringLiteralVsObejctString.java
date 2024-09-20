@@ -22,5 +22,13 @@ public class stringLiteralVsObejctString {
             System.out.println("Both lastName and myLastName point out to a different object");
         }
 
+        //learning/testing
+        String test = "he";
+        System.out.println(test.charAt(0));
+        System.out.println(test.length());
+
+        boolean attendance[] = new boolean[26];
+        System.out.println(attendance[25]);
+
     }
 }
