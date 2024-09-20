@@ -14,7 +14,7 @@ public class patternProblem01 {
 
         for(int i = 0; i<userInputValue; i++){
             for(int j = 0;j<userInputValue;j++){
-                System.out.print("* ");
+                System.out.print("*");
             }
             System.out.println();
         }
