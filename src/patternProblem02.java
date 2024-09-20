@@ -1,5 +1,9 @@
 import java.util.*;
 public class patternProblem02 {
+//    *
+//    * *
+//    * * *
+//    * * * *
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter number to the second star pattern.");

@@ -1,0 +1,2 @@
+public class patternProblem03 {
+}
