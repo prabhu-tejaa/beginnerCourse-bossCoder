@@ -30,5 +30,9 @@ public class stringLiteralVsObejctString {
         boolean attendance[] = new boolean[26];
         System.out.println(attendance[25]);
 
+        Character a='a';
+        Character A = 'A';
+        System.out.println("testing uppercase and lower case" + (a-A));
+
     }
 }
