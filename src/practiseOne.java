@@ -107,5 +107,12 @@ public class practiseOne {
 //        int valueToGetMultipleOfFive = input.nextInt();
 //        String text = input.nextLine();
 //        System.out.println(text);
+
+        // 3. Natural numbers sum
+
+        System.out.println("Enter the value you want the sum of: ");
+        int naturalNumbers = input.nextInt();
+        int naturalNumbersSum = (naturalNumbers*(naturalNumbers+1))/2;
+        System.out.println("The sum of the given value natural numbers is: " + naturalNumbersSum);
     }
 }
