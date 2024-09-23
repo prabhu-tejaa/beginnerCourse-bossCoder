@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/patternProblem05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array01MinimumAndMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patternProblem06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patternProblem06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,8 @@
     "Application.areaOfSquare.executor": "Run",
     "Application.armStringNumber01.executor": "Run",
     "Application.armsStrongNumber.executor": "Run",
+    "Application.array01MinimumAndMaximum.executor": "Debug",
+    "Application.arrays.executor": "Run",
     "Application.average.executor": "Run",
     "Application.concatTwoNumbers.executor": "Run",
     "Application.doWhile.executor": "Run",
@@ -119,5 +121,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello universe message" />
     <option name="LAST_COMMIT_MESSAGE" value="Hello universe message" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array01MinimumAndMaximum.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
