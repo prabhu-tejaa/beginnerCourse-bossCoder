@@ -9,18 +9,6 @@ public class shuffleTheArray {
         for(int i = 0; i < sizeOfArray; i++){
             userInput[i] = input.nextInt();
         }
-//        int lengthArray = userInput.length;
-//        int n = userInput.length;
-//        int i = 0, j = n / 2;
-//        int[] ans = new int[n]; // Static array of size n
-//
-//        int index = 0;
-//        while (j < n) {
-//            ans[index++] = userInput[i++]; // Copy element at i to ans, then increment i and index
-//            ans[index++] = userInput[j++]; // Copy element at j to ans, then increment j and index
-//        }
-//        System.out.println(Arrays.toString(ans));
-
         int sizeOfRealArray = userInput.length;
         if(sizeOfRealArray%2 != 0){
             int[] modifiedArray = new int[sizeOfRealArray-1];
