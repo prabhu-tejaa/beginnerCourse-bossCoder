@@ -21,8 +21,13 @@ public class shuffleTheArray {
 //        }
 //        System.out.println(Arrays.toString(ans));
 
-
         int sizeOfRealArray = userInput.length;
+        if(sizeOfRealArray%2 != 0){
+            int[] modifiedArray = new int[sizeOfRealArray-1];
+            System.arraycopy(userInput,1,modifiedArray,0,sizeOfRealArray-1);
+            userInput = modifiedArray;
+            sizeOfRealArray = userInput.length;
+        }
         int i =0, mid = sizeOfRealArray/2, index = 0;
         int[] arrayToStore = new int[sizeOfRealArray];
         while(mid<sizeOfRealArray){
