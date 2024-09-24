@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/buildArrayFromPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shuffleTheArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +86,7 @@
     "Application.remainder.executor": "Run",
     "Application.removingLastDigit.executor": "Run",
     "Application.reverseInteger.executor": "Run",
+    "Application.shuffleTheArray.executor": "Run",
     "Application.stringLiteralVsObejctString.executor": "Run",
     "Application.subtraction.executor": "Run",
     "Application.sumOfOddNumber.executor": "Run",
@@ -131,11 +131,6 @@
           <url>file://$PROJECT_DIR$/src/array01MinimumAndMaximum.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/buildArrayFromPermutation.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
