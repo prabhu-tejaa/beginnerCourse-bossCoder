@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/shuffleTheArrayDynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConcatenationofArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shuffleTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shuffleTheArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConcatenationofArray.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.addTwoNumbers.executor": "Run",
     "Application.areaOfCircle.executor": "Run",
