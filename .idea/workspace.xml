@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/iXORJisEqualToKInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elementsInAnArrayAppearsTwiceExceptOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "Application.concatTwoNumbers.executor": "Run",
     "Application.doWhile.executor": "Run",
     "Application.dynamicArray.executor": "Run",
+    "Application.elementsInAnArrayAppearsTwiceExceptOne.executor": "Run",
     "Application.evenOrOdd.executor": "Run",
     "Application.factorial.executor": "Run",
     "Application.forAndWhileLoop.executor": "Run",
