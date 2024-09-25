@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/attendanceArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/checkIfAValueIsPresentInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greatestNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iPlusJisEqualToKInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iXORJisEqualToKInAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +70,7 @@
     "Application.gettingLastDigit.executor": "Run",
     "Application.greatestNumberInArray.executor": "Run",
     "Application.iPlusJisEqualToKInAnArray.executor": "Run",
+    "Application.iXORJisEqualToKInAnArray.executor": "Run",
     "Application.integerInput.executor": "Run",
     "Application.leapYear.executor": "Run",
     "Application.maximumNumber.executor": "Run",
