@@ -1,7 +1,7 @@
-package basics;
+package bossCoderProblems.loops;
 
 import java.util.*;
-public class primeNumber {
+public class p284_primeNumber {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a value to get get if its prime number or not");

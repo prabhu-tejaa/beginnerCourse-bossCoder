@@ -1,7 +1,7 @@
-package basics;
+package bossCoderProblems.loops;
 
 import java.util.*;
-public class factorial {
+public class p93_factorial {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a value to get it's basicsOfProgramming.factorial.");

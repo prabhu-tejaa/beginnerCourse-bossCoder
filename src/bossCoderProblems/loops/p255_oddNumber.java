@@ -1,7 +1,7 @@
-package basics;
+package bossCoderProblems.loops;
 
 import java.util.*;
-public class sumOfOddNumber {
+public class p255_oddNumber {
     public static void main(String[] args){
 
         // Approach 1

@@ -1,7 +1,7 @@
-package basics;
+package bossCoderProblems.loops;
 
 import java.util.*;
-public class palindromeNumber {
+public class p258_palindromeNumber {
     public static void main(String[] args){
         System.out.println("Enter a number to check if it's palindrome or not.");
         Scanner input = new Scanner(System.in);

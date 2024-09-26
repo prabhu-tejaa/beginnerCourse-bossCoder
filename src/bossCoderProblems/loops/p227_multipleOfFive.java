@@ -1,8 +1,8 @@
-package basics;
+package bossCoderProblems.loops;
 
 import java.util.Scanner;
 
-public class multipleOfFive {
+public class p227_multipleOfFive {
         public static void main(String[] args){
             Scanner input = new Scanner(System.in);
             System.out.println("To get values multiple of 5");

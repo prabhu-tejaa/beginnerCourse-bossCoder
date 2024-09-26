@@ -1,7 +1,7 @@
-package basics;
+package bossCoderProblems.loops;
 
 import java.util.*;
-public class armsStrongNumber {
+public class p14_armsStrongNumber {
 
     static int numberOfDigits(int value){
         int digitsAvaliable = 0;
