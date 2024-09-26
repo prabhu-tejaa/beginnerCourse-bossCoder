@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/maths/p99_findGCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maths/sizeNArraySumIs0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practise/sizeNArraySumIs0Practise01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +83,7 @@
     "Application.multiplication.executor": "Run",
     "Application.multiplicationTable.executor": "Run",
     "Application.numberSystemAndBitManipulation.executor": "Run",
-    "Application.p99_findGCD.executor": "Run",
+    "Application.p99_findGCD.executor": "Debug",
     "Application.palindromeNumber.executor": "Run",
     "Application.pangram.executor": "Run",
     "Application.patternProblem01.executor": "Run",
@@ -99,6 +100,8 @@
     "Application.reverseInteger.executor": "Run",
     "Application.shuffleTheArray.executor": "Run",
     "Application.shuffleTheArrayDynamicArray.executor": "Run",
+    "Application.sizeNArraySumIs0.executor": "Run",
+    "Application.sizeNArraySumIs0Practise01.executor": "Run",
     "Application.stringLiteralVsObejctString.executor": "Run",
     "Application.subtraction.executor": "Run",
     "Application.sumOfOddNumber.executor": "Run",
