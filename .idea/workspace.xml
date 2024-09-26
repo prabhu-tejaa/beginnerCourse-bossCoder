@@ -6,6 +6,24 @@
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConcatenationofArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ConcatenationofArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array01MinimumAndMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/array01MinimumAndMaximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/attendanceArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/attendanceArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buildArrayFromPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/buildArrayFromPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/dynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elementsInAnArrayAppearsTwiceExceptOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/elementsInAnArrayAppearsTwiceExceptOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iPlusJisEqualToKInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bitManipulation/iPlusJisEqualToKInAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iXORJisEqualToKInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bitManipulation/iXORJisEqualToKInAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patternProblem01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/patternProblem01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patternProblem02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/patternProblem02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patternProblem03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/patternProblem03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patternProblem04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/patternProblem04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patternProblem05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/patternProblem05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patternProblem06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/patternProblem06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shuffleTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/shuffleTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shuffleTheArrayDynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/shuffleTheArrayDynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xorOfAllNumbersFromOneToN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bitManipulation/xorOfAllNumbersFromOneToN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +65,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AlternateBit.executor": "Run",
     "Application.ConcatenationofArray.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.PowerOfTwo.executor": "Run",
@@ -138,12 +157,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array01MinimumAndMaximum.java</url>
+          <url>file://$PROJECT_DIR$/src/arrays/array01MinimumAndMaximum.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/xorOfAllNumbersFromOneToN.java</url>
+          <url>file://$PROJECT_DIR$/src/bitManipulation/xorOfAllNumbersFromOneToN.java</url>
           <line>21</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
