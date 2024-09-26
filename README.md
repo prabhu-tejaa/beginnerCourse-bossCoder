@@ -1,3 +1,3 @@
-# beginnerCourse-bossCoder
+# beginnerCourse-bossCoderProblems
 
 Learning...
