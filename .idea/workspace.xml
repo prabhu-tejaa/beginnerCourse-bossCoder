@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
+      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/maths/p99_findGCD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/armsStrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bossCoderProblems/loops/p14_armsStrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bossCoderProblems/loops/p93_factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/multipleOfFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bossCoderProblems/loops/p227_multipleOfFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/palindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bossCoderProblems/loops/p258_palindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/primeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bossCoderProblems/loops/p284_primeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +82,7 @@
     "Application.multiplication.executor": "Run",
     "Application.multiplicationTable.executor": "Run",
     "Application.numberSystemAndBitManipulation.executor": "Run",
+    "Application.p99_findGCD.executor": "Run",
     "Application.palindromeNumber.executor": "Run",
     "Application.pangram.executor": "Run",
     "Application.patternProblem01.executor": "Run",
