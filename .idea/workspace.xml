@@ -5,43 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/bossCoder/basicsofProgramming/p120_firstProgram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/PowerOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/addTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bossCoder/basicsofProgramming/p7_addTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/areaOfCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/areaOfCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/armStringNumber01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/armStringNumber01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/armsStrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/armsStrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bossCoder/basicsofProgramming/p16_average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/checkIfAValueIsPresentInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/checkIfAValueIsPresentInAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/concatTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/concatTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/dataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/dataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/doWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/doWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/evenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/evenOrOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/forAndWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/forAndWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/gettingLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/gettingLastDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/integerInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bossCoder/basicsofProgramming/p133_integerOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/leapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/leapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/maximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/maximumNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/multipleOfFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/multipleOfFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/multipleOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/multipleOfThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bossCoder/basicsofProgramming/p229_multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/multiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/multiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/palindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/palindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/pangram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/pangram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/positiveNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/positiveNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/practiseOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/practiseOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/primeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/primeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/printHelloWorld100Times.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/printHelloWorld100Times.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/remainder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bossCoder/basicsofProgramming/p298_remainder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/removingLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/removingLastDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/reverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/reverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/subtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bossCoder/basicsofProgramming/p355_subtraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/sumOfOddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/sumOfOddNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/sumOfPrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/sumOfPrimeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/sumOfThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bossCoder/basicsofProgramming/p360_sumOfThreeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsOfProgramming/testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/testing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
