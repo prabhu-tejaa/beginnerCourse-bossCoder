@@ -1,0 +1,34 @@
+IL : If Else Conditional Statements -
+
+07. Add two numbers - 40:17
+360. Sum of Three numbers - 44:06
+229. Multiplication - 50:22
+81. Division - 52:06
+298. Remainder - 1:00:47
+233. Natural Number Sum - 1:02:26
+16. Average - 1:04:54
+89. Even or Odd - 1:29:12
+154. Leap year - 1:33:19
+189 Maximum- 1:41:19
+276. Positive number - 1:44:15
+228. Multiple of three - 1:45:31
+227. Multiple of five - 1:53:48
+
+Implementation Lab - Loops -
+
+227. Multiple of five - 06:29
+258. Palindrome number - 22:51
+230. Multiplication table - 58:28
+93. Factorial - 1:06:29
+255. Odd number - 1:13:55
+308. Reverse Integer - 1:27:06
+14. Armstrong number - 1:27:41
+284. Prime number - 1:35:34
+
+Implementation Lab - Functions
+
+17. Average of three numbers - 07:30
+88. Even sum - 15:40
+84. Driver eligibility check - 49:00
+388. X pow N
+95. Fibonacci - 1:03:54
