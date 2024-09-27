@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/numberSystemAndBitManipulation/p363_SumOfXOROfAllPossibleSubsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/multipleOf5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/ifElseConditionalStatements/p227_multipleOfFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +78,13 @@
     "Application.integerInput.executor": "Run",
     "Application.leapYear.executor": "Run",
     "Application.maximumNumber.executor": "Run",
+    "Application.multipleOf5.executor": "Debug",
     "Application.multipleOfFive.executor": "Run",
     "Application.multipleOfThree.executor": "Run",
     "Application.multiplication.executor": "Run",
     "Application.multiplicationTable.executor": "Run",
     "Application.numberSystemAndBitManipulation.executor": "Run",
+    "Application.p227_multipleOfFive.executor": "Run",
     "Application.p363_SumOfXOROfAllPossibleSubsets.executor": "Run",
     "Application.p99_findGCD.executor": "Debug",
     "Application.palindromeNumber.executor": "Run",
@@ -158,6 +162,16 @@
           <url>file://$PROJECT_DIR$/src/arrays/reverseAnArray.java</url>
           <line>9</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/multipleOf5.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/multipleOf5.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
