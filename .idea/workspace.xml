@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/arrays/p315_richestCustomerWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/arrays/p318_runningSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/functions/p95_fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
