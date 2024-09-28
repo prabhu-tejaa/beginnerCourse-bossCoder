@@ -33,6 +33,47 @@ Implementation Lab - Functions
 388. X pow N
 95. Fibonacci - 1:03:54
 
+Implementation Lab - Arrays
+
+31. Build Array from Permutation - 07:42
+331. Shuffle the Array - 36:07
+53. Concatenation of Array - 55:25
+318. Running Sum - 01:04:24
+
+Implementation Lab - 2D Arrays
+
+124. Flipping an Image - 05:49
+179. Matrix Diagonal Sum - 42:22
+37. Cells with Odd Values in a Matrix - 1:11:11
+373. Transpose Matrix - 1:29:43
+
+Strings
+
+(leetcode) 1832 - 1:13:30
+
+IL:- Strings
+
+314. Reverse words in a given string - 1:16:34
+(leetcode) 242 - 1:32:23
+260. Palindrome String - 1:37:40
+Anagram string,Pangram string - self
+
+Implementation Lab - Number System & Bit- Manipulation
+
+1. Given an array A and an integer k. Find if there exists i,j such that A[i]+A[j] = k; i<j - 07:13
+2. Given an array A and an integer k. Find if there exists i,j such that A[i]^A[j] = k; A>0 - 39:25
+3. Given an array A where each element appears twice except one find the element - 57:14
+4. Find xor of all numbers from     1 to N. - 1:06:40
+5. Wap to check if a given number is power of 2 - 1:22:15
+6. Wap to check if binary version of a number has alternative bits - 1:31:38
+
+Maths
+
+1. Find GCD of two elements - 06:30
+2. Given an array N, create an array of size N having sum zero with unique values - 52:42
+(leetcode) 1688 - 1:10:31
+363. Sum of XOR of all possible subsets - 1:29:44
+
 Implementation Lab - Maths
 
 99. Find Gcd - 14:45
