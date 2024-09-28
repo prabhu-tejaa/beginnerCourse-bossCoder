@@ -18,5 +18,23 @@ public class p99_findGCD {
         System.out.println("("+gcdA+", " + gcdB+")");
         System.out.println("GCD of given numbers is: " + gcd(gcdA,gcdB));
 
+        //or
+//        return (b==0)?a: gcd(b,a%b);
+
+//        or
+
+        if(gcdA < gcdB){
+            int temp = gcdA;
+            gcdA = gcdB;
+            gcdB = temp;
+        }
+
+        while(gcdB!=0){
+            int temp = gcdA;
+            gcdA = gcdB;
+            gcdB = temp%gcdB;
+        }
+        System.out.println("gcd"+gcdA);
+
     }
 }

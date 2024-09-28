@@ -32,3 +32,13 @@ Implementation Lab - Functions
 84. Driver eligibility check - 49:00
 388. X pow N
 95. Fibonacci - 1:03:54
+
+Implementation Lab - Maths
+
+99. Find Gcd - 14:45
+285. Program to print all prime factors of a given number - 33:36
+111. Find sum of even factors of a number - 01:02:23
+107. Find the largest prime factor of a number - 01:15:29
+(leetcode) 1295 - 1:24:47
+11. Alternate bit - 1:41:14
+(leetcode) 1295 - 1:44:12
