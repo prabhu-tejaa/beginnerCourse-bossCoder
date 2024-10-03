@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/timeComplexity/practice01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/twoDArrays/p124_flippingImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notes/strings01/one.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -85,6 +85,7 @@
     "Application.multiplication.executor": "Run",
     "Application.multiplicationTable.executor": "Run",
     "Application.numberSystemAndBitManipulation.executor": "Run",
+    "Application.one.executor": "Run",
     "Application.p111_findSumOfEvenFactorsOfANnumber.executor": "Run",
     "Application.p1295_findNumbersWithEvenNumberOfDigits.executor": "Run",
     "Application.p227_multipleOfFive.executor": "Run",
@@ -126,7 +127,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/91951/IdeaProjects/beginnerCourse-Bosscoder/src/Main.java",
-    "settings.editor.selected.configurable": "discord-application"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
