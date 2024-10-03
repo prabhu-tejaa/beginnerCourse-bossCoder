@@ -1,6 +1,6 @@
-package notes.strings01;
+package notes.strings;
 
-public class one {
+public class notes {
     public static void main(String[] args){
 
         // so what are strings
@@ -21,10 +21,15 @@ public class one {
         equals(Object obj): Checks if two strings are equal.
         compareTo(String anotherString): Compares two strings lexicographically.
         concat(String str): Concatenates two strings.
+
+        String name = "Prabhu Teja"; - this is called string literals
+        String lastName = new String("Pamula"); - this is call string objects
+
+
 */
         // let me show some examples
 
-        String name = "Prabhu Teja";
+        String name = "Prabhu Teja"; // this is called string literals
         String surName = " Pamula";
 
         // this is how we write the syntax
@@ -35,5 +40,8 @@ public class one {
         System.out.println(name.equals("Prabhu Teja"));
         System.out.println(name.compareTo("Prabhu Teja"));
         System.out.println(name.concat(surName));
+
+        String number = new String("137");
+        System.out.println(number);
     }
 }
