@@ -1,6 +1,6 @@
 package practise.strings;
 
-public class StringExercisesV1 {
+public class StringExercisesV1_0 {
 
     /*
     261. Pangram String
