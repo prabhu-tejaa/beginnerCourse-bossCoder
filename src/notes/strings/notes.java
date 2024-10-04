@@ -21,9 +21,14 @@ public class notes {
         equals(Object obj): Checks if two strings are equal.
         compareTo(String anotherString): Compares two strings lexicographically.
         concat(String str): Concatenates two strings.
+        trim(): it removes extra spaces in the beginning and the end
 
         String name = "Prabhu Teja"; - this is called string literals
         String lastName = new String("Pamula"); - this is call string objects
+
+        If you wanna take input as a string then,
+        for whole string we have to use scanner.nextLine();
+        for getting one word before any space of a string we have to use scanner.next();
 
 
 */

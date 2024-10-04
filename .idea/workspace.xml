@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/practise/strings/StringExercisesV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/strings/p261_pangramString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/strings/p314_ReverseWordsInAGivenSstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practise/strings/StringExercisesV1_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notes/strings01/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/strings/notes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/notes/strings/notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/strings/notes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practise/strings/StringExercisesV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practise/strings/StringExercisesV1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +57,8 @@
     "Application.ConcatenationofArray.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.PowerOfTwo.executor": "Run",
+    "Application.StringExercisesV1.executor": "Run",
+    "Application.StringExercisesV1_1.executor": "Run",
     "Application.addTwoNumbers.executor": "Run",
     "Application.areaOfCircle.executor": "Run",
     "Application.areaOfSquare.executor": "Run",
@@ -85,12 +90,15 @@
     "Application.multipleOfThree.executor": "Run",
     "Application.multiplication.executor": "Run",
     "Application.multiplicationTable.executor": "Run",
+    "Application.notes.executor": "Run",
     "Application.numberSystemAndBitManipulation.executor": "Run",
     "Application.one.executor": "Run",
     "Application.p111_findSumOfEvenFactorsOfANnumber.executor": "Run",
     "Application.p1295_findNumbersWithEvenNumberOfDigits.executor": "Run",
     "Application.p227_multipleOfFive.executor": "Run",
+    "Application.p261_pangramString.executor": "Run",
     "Application.p277_positiveNumber.executor": "Run",
+    "Application.p314_ReverseWordsInAGivenSstring.executor": "Run",
     "Application.p315_richestCustomerWealth.executor": "Run",
     "Application.p318_runningSum.executor": "Run",
     "Application.p363_SumOfXOROfAllPossibleSubsets.executor": "Run",
@@ -128,7 +136,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/91951/IdeaProjects/beginnerCourse-Bosscoder/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "discord-application"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
