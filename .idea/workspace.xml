@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/strings/p13_anagramString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practise/strings/StringExercisesV1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/sorting/p47_checkIfTwoArraysAreEqualOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemsExplainedOnWhichSession.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsExplainedOnWhichSession.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +94,7 @@
     "Application.one.executor": "Run",
     "Application.p111_findSumOfEvenFactorsOfANnumber.executor": "Run",
     "Application.p1295_findNumbersWithEvenNumberOfDigits.executor": "Run",
+    "Application.p13_anagramString.executor": "Run",
     "Application.p227_multipleOfFive.executor": "Run",
     "Application.p260_palindromeString.executor": "Run",
     "Application.p261_pangramString.executor": "Run",
@@ -102,6 +103,7 @@
     "Application.p315_richestCustomerWealth.executor": "Run",
     "Application.p318_runningSum.executor": "Run",
     "Application.p363_SumOfXOROfAllPossibleSubsets.executor": "Run",
+    "Application.p47_checkIfTwoArraysAreEqualOrNot.executor": "Run",
     "Application.p95_fibonacci.executor": "Run",
     "Application.p99_findGCD.executor": "Run",
     "Application.palindromeNumber.executor": "Run",
@@ -195,6 +197,11 @@
           <url>file://$PROJECT_DIR$/src/bossCoderProblems/arrays/p318_runningSum.java</url>
           <line>6</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bossCoderProblems/sorting/p47_checkIfTwoArraysAreEqualOrNot.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
