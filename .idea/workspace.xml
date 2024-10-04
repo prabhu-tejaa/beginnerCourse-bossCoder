@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/strings/p260_palindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practise/strings/StringExercisesV1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/strings/p13_anagramString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practise/strings/StringExercisesV1_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practise/strings/StringExercisesV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practise/strings/StringExercisesV1_0.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,7 @@
     "Application.StringExercisesV1.executor": "Run",
     "Application.StringExercisesV1_1.executor": "Run",
     "Application.StringExercisesV1_2.executor": "Run",
+    "Application.StringExercisesV1_3.executor": "Run",
     "Application.addTwoNumbers.executor": "Run",
     "Application.areaOfCircle.executor": "Run",
     "Application.areaOfSquare.executor": "Run",
