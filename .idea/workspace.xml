@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/leetCode/p164_maximum_Gap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/givenAnIntegralArrayWithSizeNFindNoOfElelemtsGreaterThan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/notes/sorting/sortingNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/sorting/sortingNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/notes/strings/stringsNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/strings/stringNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemsExplainedOnWhichSession.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsExplainedOnWhichSession.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +80,8 @@
     "Application.factorial.executor": "Run",
     "Application.forAndWhileLoop.executor": "Run",
     "Application.gettingLastDigit.executor": "Run",
+    "Application.givenAnIntegralArrayWithSizeNFindNoOfElelemtsGreaterThan.executor": "Run",
+    "Application.givenAnIntegralArrayWithSizeNFindNoOfElelemtsGreaterThank.executor": "Run",
     "Application.greatestNumberInArray.executor": "Run",
     "Application.iPlusJisEqualToKInAnArray.executor": "Run",
     "Application.iXORJisEqualToKInAnArray.executor": "Run",
@@ -128,6 +133,7 @@
     "Application.sizeNArraySumIs0.executor": "Run",
     "Application.sizeNArraySumIs0Practise01.executor": "Run",
     "Application.stringLiteralVsObejctString.executor": "Run",
+    "Application.stringNotes.executor": "Run",
     "Application.subSets.executor": "Run",
     "Application.subtraction.executor": "Run",
     "Application.sumOfOddNumber.executor": "Run",

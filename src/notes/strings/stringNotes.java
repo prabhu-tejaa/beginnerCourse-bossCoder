@@ -1,6 +1,6 @@
 package notes.strings;
 
-public class notes {
+public class stringNotes {
     public static void main(String[] args){
 
         // so what are strings
