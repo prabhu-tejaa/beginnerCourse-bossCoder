@@ -87,3 +87,4 @@ Implementation Lab - Maths
 IL:-Sorting
 
 47. Check if two arrays are equal or not - 19:48
+21. Binary Array Sorting - 46:16
