@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43636a0e-a8ea-4ef5-9fba-b41d19270eb5" name="Changes" comment="Hello universe message">
-      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/sorting/p21_binaryArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bossCoderProblems/sorting/p12_alternativeSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problemsExplainedOnWhichSession.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsExplainedOnWhichSession.txt" afterDir="false" />
     </list>
@@ -94,6 +94,7 @@
     "Application.one.executor": "Run",
     "Application.p111_findSumOfEvenFactorsOfANnumber.executor": "Run",
     "Application.p1295_findNumbersWithEvenNumberOfDigits.executor": "Run",
+    "Application.p12_alternativeSorting.executor": "Run",
     "Application.p13_anagramString.executor": "Run",
     "Application.p21_binaryArraySorting.executor": "Run",
     "Application.p227_multipleOfFive.executor": "Run",
