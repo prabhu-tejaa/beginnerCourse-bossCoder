@@ -96,3 +96,8 @@ IL:-Sorting
 21. Binary Array Sorting - 46:16
 12. Alternative Sorting - 1:08:16
 221. Minimum difference pair - 1:24:46
+
+IL:-Hashing
+
+122. First element to occur k times - 05:26
+39. Check Arithmetic Progression - 28:07
