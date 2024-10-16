@@ -29,7 +29,7 @@ public class p373_transposeMatrix {
         for (int i = 0; i < rows; i++) {
             List<Integer> row = new ArrayList<>();
             for (int j = 0; j < cols; j++) {
-                System.out.print("Enter element at row " + (i+1) + ", column " + (j+1) + ": ");
+                System.out.print("Enter element at row " + (i+1) + ", column " + (j+1) + ": "); 
                 row.add(sc.nextInt());
             }
             input.add(row);

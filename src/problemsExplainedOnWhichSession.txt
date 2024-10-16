@@ -102,3 +102,11 @@ IL:-Hashing
 122. First element to occur k times - 05:26
 39. Check Arithmetic Progression - 28:07
 117. Find the length of largest subarray with 0 sum - 1:23:36
+
+Revision Session
+
+121. First Unique Character in a String - 31:54
+
+Doubt session
+
+210. Min sum formed by digits - 1:00:24
