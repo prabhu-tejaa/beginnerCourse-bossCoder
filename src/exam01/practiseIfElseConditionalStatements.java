@@ -62,7 +62,23 @@ public class practiseIfElseConditionalStatements {
         // int num = 777;
         // System.out.println(num%3 == 0);
 
+        // practise of multiple of 5
 
+        // int userNum = 30;
+        // int[] answer = new int[userNum/5];
+        // for(int i = 5,j=0;i<=userNum;i=i+5){
+        //     answer[j++]=i;
+        // }
+        // System.out.println(Arrays.toString(answer));
+
+        // practise of multiple of 3
+
+        // int userInput = 30;
+        // int[] answer = new int[userInput/3];
+        // for(int i = 3,j=0;i<=userInput;i=i+3){
+        //     answer[j++]=i;
+        // }
+        // System.out.println(Arrays.toString(answer));
     }
 
 }
