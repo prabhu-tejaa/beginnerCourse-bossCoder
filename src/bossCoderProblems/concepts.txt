@@ -1,0 +1,19 @@
+All concepts coverd in the course:
+
+1. Condtional statements
+    - if
+    - if else
+    - nested if else
+    - if else if ladder
+    - switch case
+2.  Loops
+3.  Functions
+4.  Pattern based problems
+5.  Time & Space complexity
+6.  Arrays
+7.  2d Arrays
+8.  Strings
+9.  Number system & bit manupliation
+10. Math
+11. Sorting
+12. Hashing
