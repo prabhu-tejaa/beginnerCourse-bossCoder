@@ -22,35 +22,35 @@ public class p117_findTheLengthOfLargestSubarrayWith0Sum {
 
         // solution
 
-        int[] input = {15, -2, 2, -8, 1, 7, 10, 23};
-        int n = input.length, ans = 0, rs = 0;
-        HashMap<Integer, Integer> idx = new HashMap<>();
-        
-        for (int i = 0; i < n; i++) {
-            rs += input[i]; // Running sum
-            System.out.println("line 14 - "+rs);
-            
-            // Case 1: First occurrence of this running sum, store the index
-            System.out.println("line 17 - "+idx.get(rs));
-            if (idx.get(rs) == null) {
-                idx.put(rs, i);
-                System.out.println("line 20 - "+idx);
+        // int[] array = {1,-1,-2,2};
+        // int sizeOfArray = array.length;
+        // int maxLength = 0;
+        // int sum = 0;
+        // HashMap<Integer, Integer> hashMap = new HashMap<>();
+        // hashMap.put(0, -1);
+        // for(int i = 0; i<sizeOfArray;i++){
+        //     sum+=array[i];
+        //     if(hashMap.containsKey(sum)){
+        //         maxLength = Math.max(maxLength,i-hashMap.get(sum));
+        //     } else {
+        //         hashMap.put(sum,i);
+        //     }
+        // }
+        // System.out.println(maxLength);
+
+        int[] array = {1,2,3};
+        int lenght = array.length;
+        int result = 0, sum = 0;
+        HashMap<Integer,Integer> map = new HashMap<>();
+        map.put(0,-1);
+        for(int i = 0;i<lenght;i++){
+            sum+=array[i];
+            if(map.containsKey(sum)){
+                result = Math.max(result,i-map.get(sum));
             } else {
-                // Case 2: Found a subarray with sum 0, calculate its length
-                int length = i - idx.get(rs);
-                System.out.println("line 24 "+length);
-                if (length > ans) {
-                    ans = length; // Update answer if this length is larger
-                    System.out.println("answer "+ans);
-                }
-            }
-            
-            // Case 3: Special case when the running sum is 0 from index 0 to i
-            if (rs == 0) {
-                ans = i + 1; // The subarray length is i + 1
+                map.put(sum,i);
             }
         }
-        System.out.println(idx);
-        System.out.println(ans); // Return the maximum length of subarray with sum 0
+        System.out.println(result);
     }
 }

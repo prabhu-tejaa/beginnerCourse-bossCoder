@@ -42,6 +42,8 @@ public class hashing {
         System.out.println(hashMapInteger.containsValue(7));
         System.out.println(hashMapInteger.size());
         System.out.println(hashMapInteger.containsKey(7));
+        System.out.println(hashMapInteger.getOrDefault(37, 121));
+        System.out.println(hashMapInteger);
         TreeMap<Integer,Integer> treeMapInteger = new TreeMap<>();
         System.out.println(treeMapInteger.isEmpty());
         System.out.println(treeMapInteger.size());
