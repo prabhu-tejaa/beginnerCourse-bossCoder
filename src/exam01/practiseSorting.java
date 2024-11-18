@@ -67,8 +67,28 @@ public static void main(String[] args) {
 // 1 <= A.length <= 105
 // 0 <= A[i] <= 1
 
-int[] binaryArray = {1,0,1,1,1,0,0,1,0,0};
-Arrays.sort(binaryArray);
-System.out.println(Arrays.toString(binaryArray));
+// way1
+// int[] binaryArray = {1,0,1,1,1,0,0,1,0,0};
+// Arrays.sort(binaryArray);
+// System.out.println(Arrays.toString(binaryArray));
+
+//way2
+    int[] binaryArray = {1,0,1,1,1,0,0,1,0,0};
+    int sizeOfBinaryArray = binaryArray.length;
+    int[] answerArray = new int[sizeOfBinaryArray];
+    int zero = 0;
+    for(int i = 0; i<sizeOfBinaryArray;i++){
+        if(binaryArray[i] == 0){
+            zero++;
+        }
+    }
+    for(int i = 0,j=0;i<sizeOfBinaryArray;i++){
+        if(zero-- > 0){
+            answerArray[j++]=0;
+        } else {
+            answerArray[j++]=1;
+        }
+    }
+    System.out.println(Arrays.toString(answerArray));
 }
 }
