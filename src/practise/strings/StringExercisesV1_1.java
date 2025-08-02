@@ -21,7 +21,7 @@ public class StringExercisesV1_1 {
 
         // chalo lets code it out
 
-        String realString = "Prabhu Teja Pamula loves Bhavana Kunigal";
+        String realString = "Prabhu Teja Pamula";
         int sizeOfRealString = realString.length();
         String words = "";
         String reversedString = "";
